@@ -1,0 +1,238 @@
+
+
+header{
+    background-color: #1b2127;
+    display: flex;
+    font-family: cursive;
+    color: white;
+    margin: -9px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+}
+
+.logito{
+    width: 40px;
+}
+
+ol, 
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header ol{
+    display: flex;
+}
+
+figure{
+    margin :0;
+}
+
+.menu{
+    height: inherit;
+}
+
+.header ol {
+    display: flex;
+    height: inherit;;
+}
+
+.header ol li {
+    height: inherit;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.logito{
+    width: 39px;
+    padding: 10px;
+
+}
+
+.contactss{
+    padding-right: 20px; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: Montserrat;
+}
+.enlace a{
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #1b2127;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px -9px;
+}
+
+
+h1{
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  /*  margin-right: 500px;*/
+}
+
+.description{
+    box-sizing: border-box;
+    width: 300px;
+}
+
+.courses{
+    border: 1px solid #1b2127;
+    background-color: #1b2127;
+    border-radius: 10px;
+    padding: 10px 60px;
+    display: inline-block; 
+    box-sizing: border-box;
+    width: 500px;
+    height: 493px;
+}
+
+.courses-title{
+    color: royalblue;
+    font-size: 24px;
+}
+strong{
+    color: royalblue;
+}
+
+.excel{
+    box-sizing: border-box;
+    border: 1px solid #1b2127;
+    background-color: #1b2127;
+    padding: 10px 60px;
+    padding-bottom: 26px;;
+    margin: 0px 0px 10px 30px;
+    border-radius: 10px;
+    width: 390px;
+    display: inline-block;
+}
+.title-excel{
+    color: royalblue;
+    font-size: 24px;
+}
+
+
+.imagenProgramacion{
+    display: inline;
+}
+.imagenProgramacionContainer{
+    width: 300px;
+
+}
+
+.titulosemigrande h2{
+    color: white;
+    margin: 0px 30px;
+    border: 1px solid black;
+    padding: 30px;
+}
+
+
+.hero strong{
+    color: royalblue;
+}
+
+.hero{
+    height: 200px;
+    background-size: 400px 250px;
+    background-image: url("http://es.repairmsexcel.com/blog/wp-content/uploads/2020/02/giphy-1.gif");
+    background-color: #1b2127;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    color:white;
+    padding:  30px;
+    padding-left: 50px;
+    padding-bottom: 0px;
+    margin: 0px;
+    border-radius: 10px;
+    
+}
+
+
+body{
+    background-color: black;
+    font-family: cursive;
+    color : white;
+    box-sizing: border-box;
+}
+
+.titlenotes h2{
+    color: white;
+    margin: 0px 30px;
+    padding: 30px;
+}
+
+.notasperronas{
+    border: 1px solid #111010;
+    margin: 0px 10px 10px 0px;
+    width: 280px;
+    padding: 0px 0px;
+    border-radius: 10px;
+    overflow: hidden;
+    flex-shrink: 0;
+    background-color: #111010;
+    text-align: center;
+
+}
+
+.notasperronas-image{
+    border-radius: 10px;
+}
+
+.notes-details{
+    background-color: #1b2127;
+    margin: 20px;
+    margin-top: -19px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.notasperronas img {
+    width: 240px;
+    object-fit: cover;
+}
+
+.contact{
+    display: flex;
+    background-color: #111010;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 0px -9px;
+    margin-top: 30px;
+    align-items: center;
+    padding-left: 30px;
+}
+.contact h2{
+    margin-top: 0px;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    height: inherit;
+}
